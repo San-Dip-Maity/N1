@@ -29,13 +29,13 @@ const Footer = () => {
               <p class="font-semibold 0 ">Quick Link</p>
 
               <div class="flex flex-col items-start mt-5 space-y-2">
-                <p class=" transition-colors duration-300  hover:underline hover:cursor-pointer hover:text-blue-500">
+                <p class=" transition-colors duration-300  hover:underline hover:cursor-pointer hover:text-[#B9FF66]">
                   Home
                 </p>
-                <p class=" transition-colors duration-300   hover:underline hover:cursor-pointer hover:text-blue-500">
+                <p class=" transition-colors duration-300   hover:underline hover:cursor-pointer hover:text-[#B9FF66]">
                   Who We Are
                 </p>
-                <p class=" transition-colors duration-300  hover:underline hover:cursor-pointer hover:text-blue-500">
+                <p class=" transition-colors duration-300  hover:underline hover:cursor-pointer hover:text-[#B9FF66]">
                   Our Philosophy
                 </p>
               </div>
@@ -45,13 +45,13 @@ const Footer = () => {
               <p class="font-semibold  ">Industries</p>
 
               <div class="flex flex-col items-start mt-5 space-y-2">
-                <p class=" transition-colors duration-300  hover:underline hover:cursor-pointer hover:text-blue-500">
+                <p class=" transition-colors duration-300  hover:underline hover:cursor-pointer hover:text-[#B9FF66]">
                   Retail & E-Commerce
                 </p>
-                <p class=" transition-colors duration-300  hover:underline hover:cursor-pointer hover:text-blue-500">
-                  Information Technology
+                <p class=" transition-colors duration-300  hover:underline hover:cursor-pointer hover:text-[#B9FF66]">
+                  Information TechnologyB9FF66
                 </p>
-                <p class=" transition-colors duration-300  hover:underline hover:cursor-pointer hover:text-blue-500">
+                <p class=" transition-colors duration-300  hover:underline hover:cursor-pointer hover:text-[#B9FF66]">
                   Finance & Insurance
                 </p>
               </div>
@@ -124,7 +124,7 @@ const Footer = () => {
             </div>
           </div>
           <p class="font-sans p-8 text-start md:text-center md:text-lg md:p-4">
-            © 2023 You Company Inc. All rights reserved.
+            © 2024 Dip Company Inc. All rights reserved.
           </p>
         </div>
       </footer>
